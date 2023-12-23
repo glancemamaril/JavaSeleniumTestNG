@@ -8,9 +8,9 @@
 		<parameter name="categoryXML" value="Smoke" />
 		<parameter name="browser" value="chrome" />
 		<parameter name="url"
-			value="https://angelalcaladev:tu*$8mQCxMt@$eVZ@d2hu2x5nxockdl.cloudfront.net" />
+			value="https://demowebshop.tricentis.com/" />
 		<parameter name="td"
-				value="AP_TestData.xlsx" />
+				value="TestData.xlsx" />
 		<classes>
 			<class name="Customer_List.TC017_Customer_List" />
 		</classes>
