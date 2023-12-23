@@ -1,0 +1,10 @@
+
+test-output/
+extentReports/
+target/test-classes/Frameworkbase/BaseClass.class
+target/test-classes/pages/DemoWebshop/MainPage.class
+target/test-classes/utilities/Listener.class
+target/test-classes/
+target/classes/
+testData/.DS_Store
+.DS_Store
