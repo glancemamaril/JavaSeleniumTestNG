@@ -12,7 +12,7 @@
 		<parameter name="td"
 				value="TestData.xlsx" />
 		<classes>
-			<class name="Customer_List.TC017_Customer_List" />
+			<class name="test.TC1_DMS_Tricentis_Login_Static" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
